@@ -1,0 +1,6 @@
+com\sebaranguiz\smava\challenge\Userstories\LoanSelectionTest.class
+com\sebaranguiz\smava\challenge\WebPages\HomePage.class
+com\sebaranguiz\smava\challenge\WebPages\LoanSelectionResultPage.class
+com\sebaranguiz\smava\challenge\Userstories\InvalidLoginTest.class
+com\sebaranguiz\smava\challenge\Utility\BrowserLauncher.class
+com\sebaranguiz\smava\challenge\WebPages\LoginFailedPage.class
